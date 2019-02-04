@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Responsive-Portfolio
 
 
 ## Contributors
@@ -7,10 +7,10 @@
 
 ## Technology
 * HTML%, CSS
-* Live demo: https://katiekatieb.github.io/Basic-Portfolio/index.html
+* Live demo: https://katiekatieb.github.io/Responsive-Portfolio/index.html
 
 ## About
-* Basic-Portfolio is a basic portfolio site.
+* Responsive-Portfolio is a basic portfolio site.
 
 ## License 
 * This project is licensed under The MIT License (MIT).
